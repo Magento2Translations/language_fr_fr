@@ -484,7 +484,8 @@ To,À,module,Magento_Bundle
 "Buy %1 with %2 discount each","Achetez-en %1 et profitez d'une remise de %2 par produit",module,Magento_Bundle
 "Go back to product details","Revenir aux détails du produit",module,Magento_Bundle
 "Customize and Add to Cart","Personnaliser et ajouter au panier",module,Magento_Bundle
-"* Required Fields","* Champs obligatoires""<strong>Attention</strong>: Captcha is case sensitive.",module,Magento_Bundle
+"* Required Fields","* Champs obligatoires",module,Magento_Bundle
+"<strong>Attention</strong>: Captcha is case sensitive.","<strong>Attention</strong> : le captcha est sensible à la casse.",module,Magento_Bundle
 "Your Customization","Votre personnalisation",module,Magento_Bundle
 Availability,Disponibilité,module,Magento_Bundle
 "In stock","En stock",module,Magento_Bundle
@@ -511,6 +512,7 @@ Always,Toujours,module,Magento_Captcha
 "Incorrect CAPTCHA.","CAPTCHA incorrect.",module,Magento_Captcha
 "The account is locked. Please wait and try again or contact %1.","Le compte est verrouillé. S’il vous plaît attendez et réessayez ou contactez %1.",module,Magento_Captcha
 "Please enter the letters from the image","Veuillez saisir les lettres de l'image",module,Magento_Captcha
+"* Required Fields","* Champs obligatoires",module,Magento_Captcha
 "<strong>Attention</strong>: Captcha is case sensitive.","<strong>Attention</strong> : le captcha est sensible à la casse.",module,Magento_Captcha
 "Reload captcha","Recharger le captcha",module,Magento_Captcha
 "Please type the letters below","Veuillez saisir les lettres ci-dessous",module,Magento_Captcha
@@ -935,7 +937,8 @@ Show,Afficher,module,Magento_Catalog
 "View as","Afficher en",module,Magento_Catalog
 "More Information","Plus d'infos",module,Magento_Catalog
 Loading...,"En cours de chargement...",module,Magento_Catalog
-"* Required Fields","* Champs obligatoires""<strong>Attention</strong>: Captcha is case sensitive.",module,Magento_Catalog
+"* Required Fields","* Champs obligatoires",module,Magento_Catalog
+"<strong>Attention</strong>: Captcha is case sensitive.","<strong>Attention</strong> : le captcha est sensible à la casse.",module,Magento_Catalog
 Availability,Disponibilité,module,Magento_Catalog
 "Terms and Conditions","Conditions générales de ventes",module,Magento_CheckoutAgreements
 "Add New Condition","Créer des CGV",module,Magento_CheckoutAgreements
@@ -1207,7 +1210,8 @@ Cancel,Annuler,module,Magento_ConfigurableProduct
 "Page not found.","Page introuvable.",module,Magento_Contact
 "Thanks for contacting us with your comments and questions. We'll respond to you very soon.","Message : %comment",module,Magento_Contact
 "We can't process your request right now. Sorry, that's all we know.","Nous ne pouvons pas traiter votre demande. Nous nous excusons pour le désagrément.",module,Magento_Contact
-"* Required Fields","* Champs obligatoires""<strong>Attention</strong>: Captcha is case sensitive.",module,Magento_Contact
+"* Required Fields","* Champs obligatoires",module,Magento_Contact
+"<strong>Attention</strong>: Captcha is case sensitive.","<strong>Attention</strong> : le captcha est sensible à la casse.",module,Magento_Contact
 "Write Us",Écrivez-nous,module,Magento_Contact
 "Jot us a note and we’ll get back to you as quickly as possible.","Contactez nous et nous vous répondrons aussi rapidement que possible.",module,Magento_Contact
 Name,Nom,module,Magento_Contact
@@ -1392,7 +1396,8 @@ or,ou,module,Magento_Customer
 "You have no default shipping address in your address book.","Vous n'avez pas d'adresse de livraison par défaut dans votre carnet d'adresses.",module,Magento_Customer
 "Additional Address Entries","Saisies d'adresses supplémentaires",module,Magento_Customer
 "Delete Address","Effacer l'adresse",module,Magento_Customer
-"* Required Fields","* Champs obligatoires""<strong>Attention</strong>: Captcha is case sensitive.",module,Magento_Customer
+"* Required Fields","* Champs obligatoires",module,Magento_Customer
+"<strong>Attention</strong>: Captcha is case sensitive.","<strong>Attention</strong> : le captcha est sensible à la casse.",module,Magento_Customer
 Company,Société,module,Magento_Customer
 "Phone Number","Numéro de téléphone",module,Magento_Customer
 Address,Adresse,module,Magento_Customer
@@ -2508,7 +2513,8 @@ Back,Retour,module,Magento_Review
 "Back to My Reviews","Retour à mes commentaires",module,Magento_Review
 "Be the first to review this product","Soyez le premier à commenter ce produit",module,Magento_Review
 "Write Your Own Review","Rédigez votre propre commentaire",module,Magento_Review
-"* Required Fields","* Champs obligatoires""<strong>Attention</strong>: Captcha is case sensitive.",module,Magento_Review
+"* Required Fields","* Champs obligatoires",module,Magento_Review
+"<strong>Attention</strong>: Captcha is case sensitive.","<strong>Attention</strong> : le captcha est sensible à la casse.",module,Magento_Review
 "You're reviewing:","Vous commentez :",module,Magento_Review
 Summary,Résumé,module,Magento_Review
 "Submit Review","Poster le commentaire",module,Magento_Review
@@ -3059,7 +3065,8 @@ None,Aucun,module,Magento_Security
 "Remove Recipent","Supprimer le destinataire",module,Magento_SendFriend
 Remove,Supprimer,module,Magento_SendFriend
 Name,Nom,module,Magento_SendFriend
-"* Required Fields","* Champs obligatoires""<strong>Attention</strong>: Captcha is case sensitive.",module,Magento_SendFriend
+"* Required Fields","* Champs obligatoires",module,Magento_SendFriend
+"<strong>Attention</strong>: Captcha is case sensitive.","<strong>Attention</strong> : le captcha est sensible à la casse.",module,Magento_SendFriend
 Sender,Expéditeur,module,Magento_SendFriend
 Invitee,"Statut du stock de l'inventaire",module,Magento_SendFriend
 "Maximum %1 email addresses allowed.","%1 adresses mail maxi autorisées",module,Magento_SendFriend
@@ -3642,7 +3649,8 @@ Edit,Éditer,module,Magento_Wishlist
 "RSS Feed","Flux RSS",module,Magento_Wishlist
 Product,Produit,module,Magento_Wishlist
 Back,Retour,module,Magento_Wishlist
-"* Required Fields","* Champs obligatoires""<strong>Attention</strong>: Captcha is case sensitive.",module,Magento_Wishlist
+"* Required Fields","* Champs obligatoires",module,Magento_Wishlist
+"<strong>Attention</strong>: Captcha is case sensitive.","<strong>Attention</strong> : le captcha est sensible à la casse.",module,Magento_Wishlist
 "Sharing Information","Information de partage",module,Magento_Wishlist
 "Email addresses, separated by commas","Adresses email, séparées par des virgules",module,Magento_Wishlist
 "Last Added Items","Derniers articles ajoutés",module,Magento_Wishlist
