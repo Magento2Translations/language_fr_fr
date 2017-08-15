@@ -528,7 +528,7 @@ Always,Toujours,module,Magento_Captcha
 "Entity type model '%1' is not found","Le modèle du type d'entité '%1' est introuvable.",module,Magento_CatalogImportExport
 "Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Le Modèle de type entité doit être une instance de \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_CatalogImportExport
 "There are no product types available for export.","Il n’existe aucun type de produit pour l’exportation.",module,Magento_CatalogImportExport
-"Category ""%1"" has not been created.","Catégorie « %1 » n’a pas été créé.",module,Magento_CatalogImportExport
+"Category ""%1"" has not been created.","Catégorie « %1 » n’a pas été créé.",module,Magento_CatalogImportExport
 "File directory '%1' is not readable.","Le répertoire '%1' n'est pas autorisé en écriture.",module,Magento_CatalogImportExport
 "Please enter a value for title.","Veuillez entrer une valeur pour le titre.",module,Magento_CatalogImportExport
 "This name is already being used for custom option. Please enter a different name.","Ce nom est déjà utilisé pour l’option personnalisée. Veuillez saisir un nom différent.",module,Magento_CatalogImportExport
@@ -827,7 +827,7 @@ Disabled,Désactivé,module,Magento_Catalog
 "We couldn't copy file %1. Please delete media with non-existing images and try again.","Impossible de copier le fichier %1. Veuillez effacer les media dont les images n'existent pas et réessayez.",module,Magento_Catalog
 "Such product doesn't exist","Ce produit n’existe pas",module,Magento_Catalog
 "Such image doesn't exist","Cette image n’existe pas",module,Magento_Catalog
-"We couldn't move this file: %1.","Nous ne pouvions pas déplacer ce fichier : %1.",module,Magento_Catalog
+"We couldn't move this file: %1.","Nous ne pouvions pas déplacer ce fichier : %1.",module,Magento_Catalog
 "Select type options required values rows.","Sélectionner les lignes des valeurs obligatoires des options",module,Magento_Catalog
 "Please specify date required option(s).","Spécifiez la ou les option(s) de date obligatoire(s).",module,Magento_Catalog
 "Please specify time required option(s).","Spécifiez la ou les option(s) d'heure obligatoire(s).",module,Magento_Catalog
@@ -1061,7 +1061,7 @@ Preview,Prévisualiser,module,Magento_Cms
 "Insert File","Insérer le fichier",module,Magento_Cms
 "New Folder Name:","Nouveau nom de dossier :",module,Magento_Cms
 "Are you sure you want to delete this folder?","Êtes-vous sûr(e) de vouloir supprimer ce dossier?",module,Magento_Cms
-"Are you sure you want to delete this file?","Êtes-vous certain(e) de vouloir supprimer ce fichier ?",module,Magento_Cms
+"Are you sure you want to delete this file?","Êtes-vous certain(e) de vouloir supprimer ce fichier ?",module,Magento_Cms
 "Storage Root","Racine du stockage",module,Magento_Cms
 Home,Accueil,module,Magento_Cms
 "Go to Home Page","Aller à la page d'accueil",module,Magento_Cms
@@ -1697,7 +1697,7 @@ Yes,Oui,module,Magento_EncryptionKey
 "Deployment configuration file is not writable.","Le fichier de configuration de déploiement n’est pas accessible en écriture.",module,Magento_EncryptionKey
 "Please enter an encryption key.","Veuillez entrer une clé de chiffrement.",module,Magento_EncryptionKey
 "The encryption key has been changed.","La clé de chiffrement a été changée.",module,Magento_EncryptionKey
-"This is your new encryption key: %1. Be sure to write it down and take good care of it!","Voici votre nouvelle clé de cryptage : %1. N’oubliez pas de la conserver soigneusement !",module,Magento_EncryptionKey
+"This is your new encryption key: %1. Be sure to write it down and take good care of it!","Voici votre nouvelle clé de cryptage : %1. N’oubliez pas de la conserver soigneusement !",module,Magento_EncryptionKey
 "Europe First Priority","Prioritaire Europe",module,Magento_Fedex
 "1 Day Freight","Frêt 1 jour",module,Magento_Fedex
 "2 Day Freight","Frêt 2 jours",module,Magento_Fedex
@@ -1883,7 +1883,7 @@ Database,"Base de données",module,Magento_MediaStorage
 "Order total will be displayed before you submit the order","Le total de la commande s'affichera avant la confirmation de commande",module,Magento_Msrp
 "You will see the order total before you submit the order.","Vous verrez le total de la commande avant de valider la commande.",module,Magento_Msrp
 Price,Prix,module,Magento_Msrp
-"Actual Price","Prix ​​actuel",module,Magento_Msrp
+"Actual Price","Prix actuel",module,Magento_Msrp
 "Add to Cart","Ajouter au panier",module,Magento_Msrp
 "Change Billing Address","Modifier l'adresse de facturation",module,Magento_Multishipping
 "Ship to Multiple Addresses","Livrer à plusieurs adresses",module,Magento_Multishipping
@@ -3292,7 +3292,7 @@ All,Tous,module,Magento_Sitemap
 Admin,Administration,module,Magento_Store
 "Your Language:","Votre langue :",module,Magento_Store
 "Your Language",Langue,module,Magento_Store
-Language,Langue ,module,Magento_Store
+Language,Langue ,module,Magento_Store
 "Select Store","Choisir un magasin",module,Magento_Store
 "Is Default","Valeur par défaut",module,Magento_Swatches
 Delete,Supprimer,module,Magento_Swatches
@@ -3716,7 +3716,7 @@ Remove,Supprimer,theme,frontend/Magento/luma
 "Shopping Options","Affiner la recherche",theme,frontend/Magento/luma
 "Place Order","Passez la commande",module,Magento_Authorizenet
 "Credit Card Information","Information de carte bancaire",module,Magento_Braintree
-"What is this?","Aide ?""Add",module,Magento_Braintree
+"What is this?","Aide ?",module,Magento_Braintree
 "Place Order","Passez la commande",module,Magento_Braintree
 "Attention: Captcha is case sensitive.","Attention : Le Captcha est sensible à la casse.",module,Magento_Captcha
 Reason,Prêt,module,Magento_Checkout
@@ -3814,7 +3814,7 @@ Password:,"Mot de passe :",theme,frontend/Magento/luma
 "Order History",Historique,theme,frontend/Magento/luma
 "View past orders","Voir votre historique de commandes",theme,frontend/Magento/luma
 Footer,"Pied de page",theme,frontend/Magento/luma
-"About Us","Qui sommes-nous ",theme,frontend/Magento/luma
+"About Us","Qui sommes-nous ",theme,frontend/Magento/luma
 "Customer Service","Service Client",theme,frontend/Magento/luma
 "<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone""> %store_phone</a>",theme,frontend/Magento/luma
 "Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Heures d'ouverture: < br / ><span class=""no-link"">%store_hours</span>.",theme,frontend/Magento/luma
@@ -4497,7 +4497,7 @@ Status,Statut,module,Magento_Integration
 "Select Media Database","Sélectionner la base de données des media",module,Magento_MediaStorage
 "After selecting a new media storage location, press the Synchronize button to transfer all media to that location. Media will not be available in the new location until the synchronization process is complete.","Après la sélection d’un nouvel emplacement de stockage des médias, appuyez sur le bouton ""Synchroniser"" pour transférer tous les médias à cet emplacement. Les médias ne seront pas disponibles dans le nouvel emplacement jusqu’à ce que le processus de synchronisation soit terminé.",module,Magento_MediaStorage
 "Environment Update Time","Temps de mise à jour de l'environnement",module,Magento_MediaStorage
-"Minimum Advertised Price","Prix ​​minimum affiché",module,Magento_Msrp
+"Minimum Advertised Price","Prix minimum affiché",module,Magento_Msrp
 "Enable MAP","Activer le prix minimum affiché",module,Magento_Msrp
 "Display Actual Price","Afficher les vrais prix",module,Magento_Msrp
 "Default Popup Text Message","Texte du message de popup par défaut",module,Magento_Msrp
@@ -4591,9 +4591,9 @@ Title,Titre,module,Magento_Paypal
 "Sort Order","Ordre de tri""Abandoned Carts",module,Magento_Paypal
 "Payment Action","Action de paiement",module,Magento_Paypal
 "Authorization Honor Period (days)","Période d'autorisation d'honneur (jours)",module,Magento_Paypal
-"Specifies what the Authorization Honor Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.","Indiquez quelle est la période d'autorisation d'honneur sur ​​le compte PayPal du marchand. Il doit refléter le paramétrage dans PayPal.",module,Magento_Paypal
+"Specifies what the Authorization Honor Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.","Indiquez quelle est la période d'autorisation d'honneur sur le compte PayPal du marchand. Il doit refléter le paramétrage dans PayPal.",module,Magento_Paypal
 "Order Valid Period (days)","Période de validité d'une commande (jours)",module,Magento_Paypal
-"Specifies what the Order Valid Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.","Indiquez quelle est la période de validité de commande sur ​​le compte PayPal du marchand. Il doit refléter le paramétrage dans PayPal.",module,Magento_Paypal
+"Specifies what the Order Valid Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.","Indiquez quelle est la période de validité de commande sur le compte PayPal du marchand. Il doit refléter le paramétrage dans PayPal.",module,Magento_Paypal
 "Number of Child Authorizations","Nombre d'autorisations enfants",module,Magento_Paypal
 "The default number of child authorizations in your PayPal account is 1. To do multiple authorizations please contact PayPal to request an increase.","Le nombre par défaut d'autorisations enfants dans votre compte Paypal est de 1. Veuillez contacter PayPal pour demander une augmentation.",module,Magento_Paypal
 "Advanced Settings","Paramètres avancés",module,Magento_Paypal
