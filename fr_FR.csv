@@ -496,15 +496,20 @@ Priority,Priorité,module,Magento_CatalogRule
 SKU,Réf.,module,Magento_CatalogRule
 Product,Produit,module,Magento_CatalogRule
 "This rule no longer exists.","Cette règle n'existe plus.",module,Magento_CatalogRule
+"New Catalog Price Rule","Nouvelle règle de prix catalogue",module,Magento_CatalogRule
 "Edit Rule","Éditer la règle",module,Magento_CatalogRule
 Catalog,Catalogue,module,Magento_CatalogRule
 "Wrong rule specified.","Mauvaise règle spécifiée",module,Magento_CatalogRule
+"Percentage discount should be between 0 and 100.","Le pourcentage de remise doit être compris entre 0 et 100.",module,Magento_CatalogRule
+"Discount value should be 0 or greater.","La valeur de la remise doit être 0 ou supérieure.",module,Magento_CatalogRule
+"Unknown action.","Action inconnue.",module,Magento_CatalogRule
 "Update the Product","Mettre à jour le produit",module,Magento_CatalogRule
 "Rule price",prix,module,Magento_CatalogRule
 "To Fixed Value","Nouveau prix",module,Magento_CatalogRule
 "To Percentage","nouveau prix en %%",module,Magento_CatalogRule
 "By Fixed value","remise d'une valeur de",module,Magento_CatalogRule
 "By Percentage","remise en %%",module,Magento_CatalogRule
+"Update product's %1 %2: %3","Mettre à jour les caractéristiques du produit : %1 %2 : %3",module,Magento_CatalogRule
 "Conditions Combination","Combinaison de conditions",module,Magento_CatalogRule
 "Product Attribute","Attribut du produit",module,Magento_CatalogRule
 Home,Accueil,module,Magento_CatalogSearch
@@ -1098,6 +1103,7 @@ Quantity,Quantité,module,Magento_Customer
 Price,Prix,module,Magento_Customer
 Configure,Configurer,module,Magento_Customer
 Delete,Supprimer,module,Magento_Customer
+"Shopping Cart from %1","Panier d'achat de %1",module,Magento_Customer
 "Newsletter Information","Informations newsletter",module,Magento_Customer
 "Subscribed to Newsletter","Abonné à la newsletter",module,Magento_Customer
 "Last Date Subscribed","Date de dernière inscription",module,Magento_Customer
@@ -1105,6 +1111,7 @@ Delete,Supprimer,module,Magento_Customer
 "No Newsletter Found","Pas de newsletter",module,Magento_Customer
 "Start date","Date de début ",module,Magento_Customer
 "End Date","Clé de chiffrement",module,Magento_Customer
+"Receive Date","Date de réception",module,Magento_Customer
 Subject,Sujet,module,Magento_Customer
 Status,Statut,module,Magento_Customer
 Sent,Envoyé,module,Magento_Customer
@@ -1115,7 +1122,10 @@ Paused,Arrêté,module,Magento_Customer
 View,Voir,module,Magento_Customer
 Unknown,Inconnu,module,Magento_Customer
 Order,Commande,module,Magento_Customer
+"Bill-to Name","Nom (Fact.)",module,Magento_Customer
+"Ship-to Name","Nom (Livr.)",module,Magento_Customer
 "Order Total","Total de la commande",module,Magento_Customer
+"Purchase Point","Point de vente",module,Magento_Customer
 "Customer View","Vue client",module,Magento_Customer
 Qty,Qté,module,Magento_Customer
 Confirmed,Confirmé,module,Magento_Customer
@@ -1126,6 +1136,9 @@ Indeterminate,Indéterminé,module,Magento_Customer
 Offline,Déconnecté,module,Magento_Customer
 Never,Jamais,module,Magento_Customer
 "Deleted Stores","Magasins effacés",module,Magento_Customer
+"Add Locale","Ajouter des paramètres régionaux",module,Magento_Customer
+"Add Date","Ajouter une date",module,Magento_Customer
+"Days in Wish List","Jours dans la liste de souhaits",module,Magento_Customer
 No,Non,module,Magento_Customer
 Yes,"Oui""(Make sure you keep it in a safe place.)",module,Magento_Customer
 "Delete File","Supprimer le fichier",module,Magento_Customer
@@ -1138,6 +1151,7 @@ Download,Télécharger,module,Magento_Customer
 "Save Customer Group","Sauvegarder le groupe clients",module,Magento_Customer
 "Delete Customer Group","Supprimer le groupe de clients",module,Magento_Customer
 "New Customer Group","Nouveau groupe de clients",module,Magento_Customer
+"Edit Customer Group ""%1""","Éditer le groupe clients ""%1""",module,Magento_Customer
 "Group Information","Informations du groupe",module,Magento_Customer
 "Group Name","Nom de groupe",module,Magento_Customer
 "Tax Class","Classe de TVA",module,Magento_Customer
@@ -1174,6 +1188,7 @@ Customers,Clients,module,Magento_Customer
 "You deleted the customer.","Vous supprimez un client.",module,Magento_Customer
 "Manage Customers","Gérer les clients",module,Magento_Customer
 "A total of %1 record(s) were updated.","Aucun type de produit n'est défini pour l'indexer.",module,Magento_Customer
+"A total of %1 record(s) were deleted.","%1 enregistrement(s) ont été effacés.",module,Magento_Customer
 "You saved the customer.","Vous sauvez le client.",module,Magento_Customer
 "This account is not confirmed.","Ce compte n'est pas confirmé.",module,Magento_Customer
 "Please enter the first name.","Veuillez renseigner le prénom.",module,Magento_Customer
@@ -1183,7 +1198,7 @@ Customers,Clients,module,Magento_Customer
 "Please enter the zip/postal code.","Veuillez renseigner le code postal.",module,Magento_Customer
 "Please enter the country.","Veuillez renseigner le pays.",module,Magento_Customer
 "Please enter the state/province.","Veuillez renseigner le département.",module,Magento_Customer
-"""%1"" is a required value.","La longueur de ""%1"" doit être égale ou inférieure à %2 caractères.",module,Magento_Customer
+"""%1"" is a required value.","""%1"" est une valeur obligatoire.",module,Magento_Customer
 "Per Website","Par site web",module,Magento_Customer
 "Billing Address","Adresse de facturation",module,Magento_Customer
 "Shipping Address","Adresse de livraison",module,Magento_Customer
@@ -1408,7 +1423,7 @@ Dropdown,"Liste déroulante",module,Magento_Eav
 "Input type ""%value%"" not found in the input types list.","Le type d'entrée ""%value%"" n'a pas été trouvé dans la liste des types d'entrée.",module,Magento_Eav
 "Attribute object is undefined","L'objet attribut est indéfini",module,Magento_Eav
 "Entity object is undefined","L'objet entité n'est pas défini",module,Magento_Eav
-"""%1"" is a required value.","La longueur de ""%1"" doit être égale ou inférieure à %2 caractères.",module,Magento_Eav
+"""%1"" is a required value.","""%1"" est une valeur obligatoire.",module,Magento_Eav
 "Entity is not initialized","L'entité n'est pas initialisée.",module,Magento_Eav
 "Unknown parameter","Paramètre inconnu.",module,Magento_Eav
 "Invalid default decimal value","Valeur décimale par défaut non valide",module,Magento_Eav
@@ -1790,7 +1805,7 @@ No,Non,module,Magento_OfflineShipping
 "For shipment with matching items","Pour les expéditions avec articles concordants",module,Magento_OfflineShipping
 "We cannot retrieve the payment method model object.","Information de carte bancaire",module,Magento_Payment
 Month,Mois,module,Magento_Payment
-Year,"Année""<a href=""%s"" target=""_blank"">Link</a>",module,Magento_Payment
+Year,Année,module,Magento_Payment
 "Credit Card Type","Type de carte de crédit",module,Magento_Payment
 "Credit Card Number","Numéro de carte bancaire",module,Magento_Payment
 "Switch/Solo/Maestro Issue Number","Numéro de problème Switch/Solo/Maestro",module,Magento_Payment
@@ -2123,7 +2138,7 @@ Tax,"TVA & autres taxes",module,Magento_Quote
 Filter,Filtre,module,Magento_Reports
 Day,Jour,module,Magento_Reports
 Month,Mois,module,Magento_Reports
-Year,"Année""<a href=""%s"" target=""_blank"">Link</a>",module,Magento_Reports
+Year,Année,module,Magento_Reports
 Period,Période,module,Magento_Reports
 From,Depuis,module,Magento_Reports
 To,À,module,Magento_Reports
@@ -2310,6 +2325,7 @@ Back,Retour,module,Magento_Review
 Summary,Résumé,module,Magento_Review
 "Submit Review","Poster le commentaire",module,Magento_Review
 "Add Your Review","Ajoutez votre commentaire",module,Magento_Review
+"Review by","Commentaire par",module,Magento_Review
 "Back to Main Product Info","Retour à la fiche du produit",module,Magento_Review
 "Average Customer Rating","Note moyenne",module,Magento_Review
 "Product Rating:","Note du produit :",module,Magento_Review
@@ -3241,9 +3257,13 @@ Close,Fermer,module,Magento_Widget
 "Manage Widget Instances","Gérer les instances de widgets",module,Magento_Widget
 "Save and Continue Edit","Sauvegarder et continuer à éditer",module,Magento_Widget
 "New Widget Instance","Nouvelle instance de widget",module,Magento_Widget
+"Custom Layouts","Agencement personnalisé",module,Magento_Widget
+"Page Layouts","Agencements de pages",module,Magento_Widget
+"Please Select Container First","Veuillez d’abord sélectionner un conteneur",module,Magento_Widget
 "Design Package/Theme","Interface/Thème de design",module,Magento_Widget
 "Assign to Store Views","Assigner à la vue magasin",module,Magento_Widget
 "Sort Order","Ordre de tri""Abandoned Carts",module,Magento_Widget
+"Sort Order of widget instances in the same container","Ordre des instances de widgets dans le même bloc de référence",module,Magento_Widget
 "Layout Updates","Mises à jour d'agencements",module,Magento_Widget
 Categories,Catégories,module,Magento_Widget
 "Anchor Categories","Catégorie ancrée",module,Magento_Widget
@@ -3259,16 +3279,28 @@ Products,Produits,module,Magento_Widget
 Settings,Paramétrage,module,Magento_Widget
 "Design Theme","Theme de design",module,Magento_Widget
 Continue,Continuer,module,Magento_Widget
+"Please specify a Widget Type.","Merci de spécifier un type de widget.",module,Magento_Widget
+"Please specify a correct widget.","Merci de spécifier un widget adapté.",module,Magento_Widget
 "The widget instance has been deleted.","L'instance de widget a bien été effacée.",module,Magento_Widget
+"New Widget","Nouveau widget",module,Magento_Widget
 "The widget instance has been saved.","L'instance de widget a bien été sauvegardée.",module,Magento_Widget
 name,Nom,module,Magento_Widget
+"We cannot create the widget instance because it is missing required information.","L'instance de widget ne peut pas être créée parce qu'il manque une information obligatoire.",module,Magento_Widget
 Template,Gabarit,module,Magento_Widget
 All,Tous,module,Magento_Widget
+"Specific %1","Spécifique à %1",module,Magento_Widget
 "Open Chooser","Ouvrir le sélecteur",module,Magento_Widget
 Apply,Appliquer,module,Magento_Widget
 "Wish List","Liste d'envies",module,Magento_Wishlist
 "Wish List Sharing","Partager ma liste d'envies",module,Magento_Wishlist
+"My Wish List","Ma liste de souhaits",module,Magento_Wishlist
+"%1's Wish List","Liste de souhaits de %1",module,Magento_Wishlist
 "You added %1 to your shopping cart.","Vous avez ajouté %1 à votre panier.",module,Magento_Wishlist
+"This product(s) is out of stock.","Produit(s) en rupture de stock.",module,Magento_Wishlist
+"%1 has been moved to your wish list.","%1 a été déplacé dans votre liste de souhaits.",module,Magento_Wishlist
+"Message length must not exceed %1 symbols","La longueur du message ne doit pas dépasser %1 symboles",module,Magento_Wishlist
+"Your wish list has been shared.","Votre liste de souhaits a été partagée.",module,Magento_Wishlist
+"%1 items","%1 articles",module,Magento_Wishlist
 "1 item","1 élément",module,Magento_Wishlist
 Comment,Commentaire,module,Magento_Wishlist
 "Display number of items in wish list","Afficher le nombre de produits dans la liste d'envies",module,Magento_Wishlist
@@ -3276,9 +3308,12 @@ Comment,Commentaire,module,Magento_Wishlist
 "An item option with code %1 already exists.","Une option article avec le code %1 existe déjà.",module,Magento_Wishlist
 "Cannot specify product.","Impossible de spécifier le produit",module,Magento_Wishlist
 "Invalid item option format.","Format d'option d'élément invalide.",module,Magento_Wishlist
+"%1 for ""%2"".","%1 pour ""%2"".",module,Magento_Wishlist
 "%1 product(s) have been added to shopping cart: %2.","%1 produits ont été ajoutés à votre panier : %2.",module,Magento_Wishlist
 "The product does not exist.","Le produit n'existe pas.",module,Magento_Wishlist
+"Share Wish List","Partager liste de souhaits",module,Magento_Wishlist
 "Add All to Cart","Tout ajouter au panier",module,Magento_Wishlist
+"Update Wish List","Mettre à jour liste de souhaits",module,Magento_Wishlist
 "View Product","Voir produit",module,Magento_Wishlist
 "Add to Cart","Ajouter au panier",module,Magento_Wishlist
 Availability,Disponibilité,module,Magento_Wishlist
@@ -3288,18 +3323,23 @@ Edit,Éditer,module,Magento_Wishlist
 "Remove Item","Supprimer l'article",module,Magento_Wishlist
 "Remove item","Retirer l'article",module,Magento_Wishlist
 "Add to Compare","Ajouter au comparateur",module,Magento_Wishlist
+"This Wish List has no Items","Cette liste de souhaits n'a pas d'articles",module,Magento_Wishlist
 "Options Details","Détails des options",module,Magento_Wishlist
+"RSS link to %1's wishlist","Lien RSS vers la liste de souhaits de %1",module,Magento_Wishlist
 "RSS Feed","Flux RSS",module,Magento_Wishlist
 Back,Retour,module,Magento_Wishlist
+"Wish List is empty now.","Liste de souhaits est maintenant vide.",module,Magento_Wishlist
 "* Required Fields","* Champs obligatoires",module,Magento_Wishlist
 "Sharing Information","Information de partage",module,Magento_Wishlist
 "Email addresses, separated by commas","Adresses email, séparées par des virgules",module,Magento_Wishlist
 "Last Added Items","Derniers articles ajoutés",module,Magento_Wishlist
 "Remove This Item","Retirer cet élément",module,Magento_Wishlist
+"Go to Wish List","Ajouter à la liste de souhaits",module,Magento_Wishlist
+"You have no items in your wish list.","Vous n’avez aucun article dans votre liste de souhaits.",module,Magento_Wishlist
 "Shop By","Filtrer par",theme,frontend/Magento/luma
 Total:,"Total :",module,Magento_Checkout
 "Add Products to New Option","Ajouter des produits à la nouvelle Option",module,Magento_Bundle
-"Add Products to Option ""%1""","Ajouter des produits à l’Option « 1 »",module,Magento_Bundle
+"Add Products to Option ""%1""","Ajouter des produits à l’Option ""%1""",module,Magento_Bundle
 "Add Selected Products","Ajouter les produits sélectionnés",module,Magento_Bundle
 Cancel,Annuler,module,Magento_Catalog
 "Configure Product","Configurer le produit",module,Magento_Catalog
@@ -3543,14 +3583,18 @@ Rule,"Flux RSS de la liste d'envies de %s",module,Magento_CatalogRule
 "Rebuild Catalog product fulltext search index","Reconstruire l'index de recherche sur le texte complet du catalogue produit",module,Magento_CatalogSearch
 "Product Fields Auto-Generation","Auto-génération de champs de produits",module,Magento_Catalog
 "Mask for SKU","Gabarit de SKU",module,Magento_Catalog
+"Use {{name}} as Product Name placeholder","Utiliser {{name}} comme nom de produit remplacant",module,Magento_Catalog
 "Mask for Meta Title","Masque pour le titre Meta",module,Magento_Catalog
 "Mask for Meta Keywords","Masque pour les mots clés Meta",module,Magento_Catalog
+"Use {{name}} as Product Name or {{sku}} as Product SKU placeholders","Utiliser {{name}} comme nom de produit ou {{sku}} comme SKU par défaut",module,Magento_Catalog
 "Mask for Meta Description","Masque pour la description Meta",module,Magento_Catalog
+"Use {{name}} and {{description}} as Product Name and Product Description placeholders","Utiliser {{name}} et {{description}} comme nom de produit et description produit",module,Magento_Catalog
 Storefront,Vitrine,module,Magento_Catalog
 "List Mode","Mode d'affichage",module,Magento_Catalog
 "Products per Page on Grid Allowed Values","Valeurs autorisées pour le nombre de produits par page dans l'affichage en grille",module,Magento_Catalog
 Comma-separated.,"Séparées par des virgules.",module,Magento_Catalog
 "Products per Page on Grid Default Value","Produits par page dans l'affichage en grille",module,Magento_Catalog
+"Must be in the allowed values list","Doit être dans la liste des valeurs autorisées",module,Magento_Catalog
 "Products per Page on List Allowed Values","Produits par page dans l'affichage en liste",module,Magento_Catalog
 "Products per Page on List Default Value","Produits par page dans l'affichage en liste par défaut",module,Magento_Catalog
 "Use Flat Catalog Category","Utiliser le catalogue à plat pour les catégories",module,Magento_Catalog
@@ -3588,6 +3632,8 @@ Watermark,Filigrane,module,Magento_Catalog
 "Reorganize EAV category structure to flat structure","Réorganise la structure de catégorie EAV en une structure fixe",module,Magento_Catalog
 "Indexed category/products association","Index des associations catégorie/produits",module,Magento_Catalog
 "Product Categories","Catégories du produit",module,Magento_Catalog
+"Indexed product/categories association","Association des produits et catégories indexés",module,Magento_Catalog
+"Product Price","Prix du produit",module,Magento_Catalog
 "Index product prices","Index des tarifs produit",module,Magento_Catalog
 "Catalog New Products List","Liste des nouveaux produits du catalogue",module,Magento_Catalog
 "List of Products that are set as New","Liste des produits configurés comme ""Nouveaux""",module,Magento_Catalog
@@ -3603,6 +3649,7 @@ Template,Gabarit,module,Magento_Catalog
 "New Products List Template","Gabarit des nouveaux produits sous forme de liste",module,Magento_Catalog
 "New Products Images and Names Template","Nouveau des Images de Produits et Noms de Modèle",module,Magento_Catalog
 "New Products Names Only Template","De Nouveaux Produits Uniquement Des Noms De Modèle",module,Magento_Catalog
+"New Products Images Only Template","Gabarit des images des nouveaux produits",module,Magento_Catalog
 "Cache Lifetime (Seconds)","Durée de vie du cache (secondes)",module,Magento_Catalog
 "Catalog Product Link","Lien produit catalogue",module,Magento_Catalog
 "Link to a Specified Product","Lien vers un produit spécifique",module,Magento_Catalog
@@ -4170,6 +4217,7 @@ Enabled,Activé,module,Magento_Sitemap
 "File size in bytes.","Taille du fichier en octets.",module,Magento_Sitemap
 "Link for Google","Lien pour Google",module,Magento_Sitemap
 "Last Generated","Dernière génération",module,Magento_Sitemap
+Layouts,Gabarits,module,Magento_Store
 "Tax Classes","Classes de taxe",module,Magento_Tax
 "Tax Class for Shipping","Classe de taxe pour la livraison",module,Magento_Tax
 "Calculation Settings","Paramètres de calcul",module,Magento_Tax
@@ -4290,12 +4338,19 @@ Debug,Déboguage,module,Magento_Usps
 "Share Options","Options de partage",module,Magento_Wishlist
 "Email Sender","Expéditeur du mail",module,Magento_Wishlist
 "Email Template","Gabarit du mail",module,Magento_Wishlist
+"Max Emails Allowed to be Sent","Nombre max d'e-mails autorisés à être envoyés",module,Magento_Wishlist
+"Email Text Length Limit","Limite de longueur de texte d’email",module,Magento_Wishlist
 "General Options","Options générales",module,Magento_Wishlist
 Enabled,Activé,module,Magento_Wishlist
+"My Wish List Link","Lien de ma liste de souhaits",module,Magento_Wishlist
+"Display Wish List Summary","Affichage résumé de la liste de souhaits",module,Magento_Wishlist
 "No Items Found","Aucun article trouvé",module,Magento_Wishlist
 "Product Name","Nom de produit",module,Magento_Wishlist
 "User Description","Description utilisateur",module,Magento_Wishlist
 Quantity,Quantité,module,Magento_Wishlist
+"Add Locale","Ajouter des paramètres régionaux",module,Magento_Wishlist
+"Add Date","Ajouter une date",module,Magento_Wishlist
+"Days in Wish List","Jours dans la liste de souhaits",module,Magento_Wishlist
 Configure,Configurer,module,Magento_Wishlist
 Delete,Supprimer,module,Magento_Wishlist
 "Product Details and Comment","Détails du produit et commentaire",module,Magento_Wishlist
