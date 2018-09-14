@@ -165,7 +165,7 @@ Cancel,Annuler,module,Magento_Backend
 "Block Information",Information,module,Magento_Backend
 "Backup Options","Options de sauvegarde",module,Magento_Backend
 "Create DB Backup","Créer une sauvegarde de la BDD",module,Magento_Backend
-Yes,"Oui""(Make sure you keep it in a safe place.)",module,Magento_Backend
+Yes,"Oui",module,Magento_Backend
 No,Non,module,Magento_Backend
 "Delete Store","Supprimer le magasin",module,Magento_Backend
 "Delete Web Site","Supprimer le Site Web",module,Magento_Backend
@@ -660,7 +660,7 @@ Home,Accueil,module,Magento_CatalogSearch
 "Go to Home Page","Aller à la page d'accueil",module,Magento_CatalogSearch
 "Catalog Advanced Search","Recherche avancée dans le catalogue",module,Magento_CatalogSearch
 All,Tous,module,Magento_CatalogSearch
-Yes,"Oui""(Make sure you keep it in a safe place.)",module,Magento_CatalogSearch
+Yes,"Oui",module,Magento_CatalogSearch
 No,Non,module,Magento_CatalogSearch
 Results,Résultats,module,Magento_CatalogSearch
 "Advanced Search Results","Résultat de recherche avancée",module,Magento_CatalogSearch
@@ -1524,7 +1524,7 @@ Store,Magasin,module,Magento_Config
 "HTTP (unsecure)","HTTP (non sécurisé)",module,Magento_Config
 "Yes (302 Found)","Oui (302 Document déplacé de façon temporaire)",module,Magento_Config
 "Yes (301 Moved Permanently)","Oui (301 Document déplacé de façon permanente)",module,Magento_Config
-Yes,"Oui""(Make sure you keep it in a safe place.)",module,Magento_Config
+Yes,"Oui",module,Magento_Config
 Specified,Spécifié,module,Magento_Config
 "Config form fieldset clone model required to be able to clone fields","Un modèle de clone de champs de formulaire de configuration est nécessaire pour pouvoir cloner les champs",module,Magento_Config
 "Invalid XML in file %1:\n%2","XML invalide dans le fichier %1: \n%2",module,Magento_Config
@@ -1718,7 +1718,7 @@ Locked,Verrouillé,module,Magento_Customer
 "Days in Wish List","Jours dans la liste de souhaits",module,Magento_Customer
 Unlock,Déverrouiller,module,Magento_Customer
 No,Non,module,Magento_Customer
-Yes,"Oui""(Make sure you keep it in a safe place.)",module,Magento_Customer
+Yes,"Oui",module,Magento_Customer
 "Delete File","Supprimer le fichier",module,Magento_Customer
 Download,Télécharger,module,Magento_Customer
 "Delete Image","Effacer l'image",module,Magento_Customer
@@ -2050,7 +2050,7 @@ Unlimited,Illimité,module,Magento_Downloadable
 "Order id cannot be null","L'id de commande ne peut pas être null",module,Magento_Downloadable
 "Order item id cannot be null","L'id d'article de commande ne peut pas être null",module,Magento_Downloadable
 "Please specify product link(s).","Spécifiez le ou les liens des produits",module,Magento_Downloadable
-Yes,"Oui""(Make sure you keep it in a safe place.)",module,Magento_Downloadable
+Yes,"Oui",module,Magento_Downloadable
 No,Non,module,Magento_Downloadable
 "Use config","Utiliser la config",module,Magento_Downloadable
 attachment,"pièce jointe",module,Magento_Downloadable
@@ -2110,7 +2110,7 @@ Refunded,Remboursé,module,Magento_Downloadable
 "Unique Value (not shared with other products)","Valeur unique (non partagée avec les autres produits)",module,Magento_Eav
 "Input Validation for Store Owner","Validation requise",module,Magento_Eav
 Required,Obligatoire,module,Magento_Eav
-Yes,"Oui""(Make sure you keep it in a safe place.)",module,Magento_Eav
+Yes,"Oui",module,Magento_Eav
 No,Non,module,Magento_Eav
 System,Système,module,Magento_Eav
 None,Aucun,module,Magento_Eav
@@ -2600,7 +2600,7 @@ Shipping,Livraison,module,Magento_Payment
 "The payment review action is unavailable.","L'action de commentaire de paiement n'est pas disponible.",module,Magento_Payment
 "Invalid Credit Card Number","Numéro de carte bancaire invalide",module,Magento_Payment
 "Please enter a valid credit card verification number.","Veuillez saisir un numéro de vérification de carte bancaire valide.",module,Magento_Payment
-Yes,"Oui""(Make sure you keep it in a safe place.)",module,Magento_Payment
+Yes,"Oui",module,Magento_Payment
 No,Non,module,Magento_Payment
 "Expiration Date","Date d'expiration",module,Magento_Payment
 "Card Verification Number","Numéro de vérification",module,Magento_Payment
@@ -2670,7 +2670,7 @@ Shortcut,Raccourci,module,Magento_Paypal
 "Acceptance Mark Image","Image de marque d'acceptation",module,Magento_Paypal
 Authorization,Autorisation,module,Magento_Paypal
 Sale,Vente,module,Magento_Paypal
-Yes,"Oui""(Make sure you keep it in a safe place.)",module,Magento_Paypal
+Yes,"Oui",module,Magento_Paypal
 No,Non,module,Magento_Paypal
 "For Virtual Quotes Only","Pour les commandes virtuelles uniquement",module,Magento_Paypal
 "Ask Customer","Demandez au client",module,Magento_Paypal
@@ -2952,7 +2952,7 @@ Year,Année,module,Magento_Reports
 Period,Période,module,Magento_Reports
 From,Depuis,module,Magento_Reports
 To,À,module,Magento_Reports
-Yes,"Oui""(Make sure you keep it in a safe place.)",module,Magento_Reports
+Yes,"Oui",module,Magento_Reports
 No,Non,module,Magento_Reports
 "Empty Rows","Lignes vides",module,Magento_Reports
 Refresh,Rafraîchir,module,Magento_Reports
@@ -3200,7 +3200,7 @@ Generate,Générer,module,Magento_SalesRule
 Created,Créer...,module,Magento_SalesRule
 Uses,"Les utilisateurs verront cette image au chargement de l'application. Image de 320 x 460px.",module,Magento_SalesRule
 No,Non,module,Magento_SalesRule
-Yes,"Oui""(Make sure you keep it in a safe place.)",module,Magento_SalesRule
+Yes,"Oui",module,Magento_SalesRule
 "Times Used","Nombre d'utilisations",module,Magento_SalesRule
 "Excel XML","XML d'Excel",module,Magento_SalesRule
 "Are you sure you want to delete the selected coupon(s)?","Êtes-vous sûr(e) de vouloir effacer les bons de réduction sélectionnés ?",module,Magento_SalesRule
@@ -3383,7 +3383,7 @@ Shipments,Expéditions,module,Magento_Sales
 Any,Tous,module,Magento_Sales
 Specified,Spécifié,module,Magento_Sales
 "Cart Price Rule","Certains articles dans le panier ne sont pas elligibles à l'export vers l'API PayPal.",module,Magento_Sales
-Yes,"Oui""(Make sure you keep it in a safe place.)",module,Magento_Sales
+Yes,"Oui",module,Magento_Sales
 No,Non,module,Magento_Sales
 "Show Actual Values","Montrer les valeurs actuelles",module,Magento_Sales
 "New Order RSS","Flux RSS des nouvelles commandes",module,Magento_Sales
@@ -3655,7 +3655,7 @@ Search,Chercher,module,Magento_Search
 "Search Information","Informations de recherche",module,Magento_Search
 "General Information","Informations générales",module,Magento_Search
 No,Non,module,Magento_Search
-Yes,"Oui""(Make sure you keep it in a safe place.)",module,Magento_Search
+Yes,"Oui",module,Magento_Search
 "Search Query","Termes de recherche",module,Magento_Search
 Store,Magasin,module,Magento_Search
 "Number of results","Nombre de résultats",module,Magento_Search
@@ -4151,7 +4151,7 @@ Rectangular,Rectangulaire,module,Magento_Usps
 Non-rectangular,"Non rectangulaire",module,Magento_Usps
 Regular,Régulier,module,Magento_Usps
 Large,Grand,module,Magento_Usps
-Yes,"Oui""(Make sure you keep it in a safe place.)",module,Magento_Usps
+Yes,"Oui",module,Magento_Usps
 No,Non,module,Magento_Usps
 "Not Required","Non requis",module,Magento_Usps
 Required,Obligatoire,module,Magento_Usps
@@ -4173,7 +4173,7 @@ None,Aucun,module,Magento_Usps
 "Variable Name","Nom de la variable",module,Magento_Variable
 "Use Default Variable Values","Utiliser les valeurs par défaut",module,Magento_Variable
 No,Non,module,Magento_Variable
-Yes,"Oui""(Make sure you keep it in a safe place.)",module,Magento_Variable
+Yes,"Oui",module,Magento_Variable
 "Variable HTML Value","Valeur HTML de la variable",module,Magento_Variable
 "Variable Plain Value","Valeur texte de la variable",module,Magento_Variable
 "Variable Code must be unique.","Le code de variable doit être unique",module,Magento_Variable
@@ -4887,7 +4887,7 @@ To,À,module,Magento_CatalogRule
 Priority,Priorité,module,Magento_CatalogRule
 Apply,Appliquer,module,Magento_CatalogRule
 "Discount Amount",Remise,module,Magento_CatalogRule
-Yes,"Oui""(Make sure you keep it in a safe place.)",module,Magento_CatalogRule
+Yes,"Oui",module,Magento_CatalogRule
 No,Non,module,Magento_CatalogRule
 "Catalog Search","Recherche catalogue",module,Magento_CatalogSearch
 "Popular Search Terms","Termes de recherche populaires",module,Magento_CatalogSearch
