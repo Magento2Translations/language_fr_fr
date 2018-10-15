@@ -1785,7 +1785,7 @@ or,ou,module,Magento_Customer
 Address,Adresse,module,Magento_Customer
 "Street Address",Adresse,module,Magento_Customer
 "Street Address %1",Fax,module,Magento_Customer
-"VAT Number","Numéro de TVA""Cron (Scheduled Tasks) - all the times are in minutes",module,Magento_Customer
+"VAT Number","Numéro de TVA",module,Magento_Customer
 City,Ville,module,Magento_Customer
 State/Province,État/Région,module,Magento_Customer
 "Please select a region, state or province.","Merci de sélectionner une région, une état ou une province.",module,Magento_Customer
