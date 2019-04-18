@@ -5047,6 +5047,7 @@ Reports,Rapports,module,Magento_Search
 "You saved the search term.","Vous avez enregistré le terme de recherche.",module,Magento_Search
 "Something went wrong while saving the search query.","Quelque chose s'est mal déroulé lors de la sauvegarde de la requête de recherche.",module,Magento_Search
 "You already have an identical search term query.","Vous avez déjà une requête de terme de recherche identique.",module,Magento_Search
+"The synonym group with the ""%1"" ID can't be deleted. %2","Le groupe de synonymes portant l'identifiant ""%1"" ne peut pas être supprimé. %2",module,Magento_Search
 "Merge conflict with existing synonym group(s): %1","Fusionner le conflit avec le(s) groupe(s) de synonymes existant(s) : %1",module,Magento_Search
 "All Websites","Tous les sites web",module,Magento_Search
 "    All Store Views","    Toutes les vues de magasin",module,Magento_Search
